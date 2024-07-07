@@ -7,6 +7,8 @@ The goal of the Yoga Pose Detection project is to help people execute yoga postu
 
 
 
-https://github.com/priyapri-23/Yoga-Pose-Detection/assets/100368616/1ac3ada2-176c-4e8b-8e16-037b32394f26
+https://github.com/priyapri-23/Yoga-Pose-Detection/assets/100368616/0a810d70-d3ef-4e98-a73a-53fa5d64f02e
+
+
 
 
